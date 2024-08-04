@@ -10,6 +10,8 @@
 
 ![Online Education case](assets/images/image-1.png)
 
+![natural growth of online education](assets/images/image-1.1.png)
+
 ## SaaS
 
 ![SaaS case](assets/images/image-2.png)
